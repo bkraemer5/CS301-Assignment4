@@ -1,0 +1,3 @@
+Bernard    	Smith     	Douglas	$581.25
+Kimberly    	Macias     	Douglas	$1820.00
+Ryan    	Ward     	Douglas	$3281.00

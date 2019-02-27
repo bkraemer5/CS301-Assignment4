@@ -1,0 +1,5 @@
+Maria    	Brown     	Intel	$1667.25
+Patricia    	Wright     	Intel	$1280.00
+Olivia    	Walker     	Intel	$3149.23
+Karen    	Hill     	Intel	$2673.00
+Karen    	Hill     	Intel	$2673.00
